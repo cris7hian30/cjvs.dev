@@ -3,7 +3,7 @@ import { JobExperienceProps } from "@/components/common/JobExperience";
 export const jobExperiences: JobExperienceProps[] = [
   {
     image: "/images/work/df.webp",
-    jobTitle: "Sr. Software Engineer",
+    jobTitle: "Senior Software Engineer",
     companyName: "Digital@Femsa",
     startDate: "Jun 2023",
     endDate: "now",
@@ -13,7 +13,7 @@ export const jobExperiences: JobExperienceProps[] = [
   },
   {
     image: "/images/work/gc.webp",
-    jobTitle: "Mid Software Engineer",
+    jobTitle: "Software Engineer",
     companyName: "Grupo Códice",
     startDate: "Nov 2020",
     endDate: "Jun 2023",
