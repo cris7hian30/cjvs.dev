@@ -1,0 +1,18 @@
+export const skills = {
+  jsts: "Javascript / Typescript",
+  reactNative: "React Native",
+  react: "React",
+  next: "Next.js",
+  node: "Node.js",
+  gql: "GraphQL",
+  aws: "AWS",
+  sql: "SQL",
+  nosql: "No-SQL",
+  framerMotion: "Framer Motion",
+  expo: "Expo",
+  tailwind: "Tailwind CSS",
+  restApi: "REST API",
+  php: "PHP",
+  astro: "Astro",
+  remix: "Remix",
+};
